@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Processus de création de blindtest 
+# Processus de création de bl
 # 
 # #1 Parse une playlist (spotify/youtube)
 # #2 telecharger les musiques
